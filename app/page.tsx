@@ -441,7 +441,7 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h3 className="text-2xl font-semibold text-blue-800 mb-1">BE in Electronics and Telecommunication</h3>
-                  <div className="text-blue-600 font-medium mb-1">Internatoin Institute of Information Technology, Pune</div>
+                  <div className="text-blue-600 font-medium mb-1">International Institute of Information Technology, Pune</div>
                   <div className="text-gray-500 text-sm mb-2">2021 - 2025</div>
                   <p className="text-gray-700">
                     CGPA - 7.20
